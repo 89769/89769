@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karanpreet Singh</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karanpreet Singh</h1>
 - 🌱 I’m currently learning **Android Development, Data Structures and Algorithm**
 
 - 💬 Ask me about **Java , Kotlin , Flutter**
@@ -7,8 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75208228/124130035-fa5b3700-da9b-11eb-91a3-d06319ba5635.jpg">
-
 <a href="https://twitter.com/karanpr99454232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanpr99454232" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanpreet-singh-4329491b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanpreet-singh-4329491b8" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_462_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_462_" height="30" width="40" /></a>
