@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75208228/124129071-085c8800-da9b-11eb-84bb-8658a5d4122e.jpg">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75208228/124130035-fa5b3700-da9b-11eb-91a3-d06319ba5635.jpg">
 
 <a href="https://twitter.com/karanpr99454232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanpr99454232" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanpreet-singh-4329491b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanpreet-singh-4329491b8" height="30" width="40" /></a>
